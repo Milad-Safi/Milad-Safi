@@ -48,7 +48,7 @@ Offline-first mobile app for tracking academic deadlines with a calendar-first U
 
 ## Tech Stack & Skills
 
-### Languages
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -61,7 +61,7 @@ Offline-first mobile app for tracking academic deadlines with a calendar-first U
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" />
 </p>
 
-### Frameworks
+<h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -72,7 +72,7 @@ Offline-first mobile app for tracking academic deadlines with a calendar-first U
   <img src="https://img.shields.io/badge/Pygame-2E7D32?style=for-the-badge&logoColor=white" />
 </p>
 
-### Backend & Data
+<h3 align="center">Backend & Data</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000000" />
