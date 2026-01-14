@@ -42,7 +42,7 @@
 
 ## Featured Projects
 
-### Leafs Edge — NHL Analytics Platform
+### Leafs Edge — https://leafs-edge.vercel.app/
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,13 +51,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-Full-stack platform for NHL matchup analysis using traditional stats, NHL EDGE tracking data, and machine learning.
+Leafs Edge is a full-stack NHL analytics platform designed to make team matchups easy to understand and help people get an idea on how the game will go. The application combines traditional hockey statistics with NHL EDGE tracking data and a custom machine learning model to provide real-time matchup context and short-term momentum predictions. A Python-based backend handles data ingestion, normalization, and analytics, while the frontend presents the data through a fast, interactive interface optimized for comparison.
 
-- Side-by-side matchup comparisons with opponent context  
-- Custom backend for ingestion, normalization, and analytics  
-- ML model predicts short-term team momentum (UP / FLAT / DOWN)
-
-🔗 https://leafs-edge.vercel.app/
 
 ---
 
@@ -68,8 +63,5 @@ Full-stack platform for NHL matchup analysis using traditional stats, NHL EDGE t
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-Offline-first mobile app for tracking academic deadlines with a calendar-first interface.
+DueSoon is an offline-first mobile application built to help students track academic deadlines with minimal friction. The app uses a calendar-first interface with clear urgency indicators to surface upcoming tasks at a glance, while also supporting list-based views for detailed planning. All data is stored locally on the device, allowing the app to remain fast, reliable, and usable without accounts or internet connectivity.
 
-- Visual urgency indicators for upcoming deadlines  
-- Monthly calendar and list views  
-- Local persistence with no accounts or internet dependency
