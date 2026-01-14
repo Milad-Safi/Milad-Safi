@@ -75,3 +75,17 @@ DueSoon is a mobile application designed to help students track assignments, lab
 
 📂 **[GitHub](https://github.com/Milad-Safi/DueSoon)**
 
+---
+
+### Stranded
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-2E7D32?style=for-the-badge&logoColor=white" />
+</p>
+
+Stranded is a 2D side-scrolling game built in Python using Pygame, focused on real-time gameplay mechanics and structured game logic. The project implements a full game loop with player movement, enemy behavior, collision handling, projectiles, and state transitions such as loading and game-over screens. Game entities are organized into separate modules, allowing for clear separation of concerns and easier iteration on mechanics and assets.
+
+📂 **[GitHub](https://github.com/Milad-Safi/stranded)**
+
+
