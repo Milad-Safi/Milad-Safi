@@ -1,6 +1,6 @@
-## About Me
+## 🚀 About Me
 
-Computer science student at Toronto Metropolitan University.
+Computer science student at Toronto Metropolitan University with a strong focus on fundamentals, hands-on projects, and practical software development.
 
 ---
 
