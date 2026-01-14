@@ -42,7 +42,8 @@
 
 ## Featured Projects
 
-### Leafs Edge — https://leafs-edge.vercel.app/
+### Leafs Edge
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,17 +52,21 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-Leafs Edge is a full-stack NHL analytics platform designed to make team matchups easy to understand and help people get an idea on how the game will go. The application combines traditional hockey statistics with NHL EDGE tracking data and a custom machine learning model to provide real-time matchup context and short-term momentum predictions. A Python-based backend handles data ingestion, normalization, and analytics, while the frontend presents the data through a fast, interactive interface optimized for comparison.
+Leafs Edge is a full-stack NHL analytics platform built to make team matchups easy to understand at a glance. It combines traditional hockey statistics, NHL EDGE tracking data, and a custom machine learning model to provide real-time matchup context and short-term momentum predictions for upcoming games.
 
+🔗 **Live:** https://leafs-edge.vercel.app/  
+📂 **GitHub:** https://github.com/Milad-Safi/leafs-edge
 
 ---
 
-### DueSoon — Deadline & Task Tracking App
+### DueSoon
+
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-DueSoon is an offline-first mobile application built to help students track academic deadlines with minimal friction. The app uses a calendar-first interface with clear urgency indicators to surface upcoming tasks at a glance, while also supporting list-based views for detailed planning. All data is stored locally on the device, allowing the app to remain fast, reliable, and usable without accounts or internet connectivity.
+DueSoon is a mobile application designed to help students track assignments, labs, and all tasks. The app uses a calendar-first interface with clear urgency indicators to surface upcoming tasks quickly, while also supporting list-based views for more detailed planning — all without requiring accounts or an internet connection.
 
+📂 **GitHub:** https://github.com/Milad-Safi/DueSoon
