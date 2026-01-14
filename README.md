@@ -1,5 +1,7 @@
 ## Milad Safi
 
+---
+
 ## Featured Projects
 
 ### Leafs Edge — NHL Analytics Platform
