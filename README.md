@@ -50,12 +50,15 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 Leafs Edge is a full-stack NHL analytics platform built to make team matchups easy to understand at a glance. It combines traditional hockey statistics, NHL EDGE tracking data, and a custom machine learning model to provide real-time matchup context and short-term momentum predictions for upcoming games.
 
-🔗 **Live:** https://leafs-edge.vercel.app/  
-📂 **GitHub:** https://github.com/Milad-Safi/leafs-edge
+🔗 **Live:** [leafs-edge.vercel.app](https://leafs-edge.vercel.app/)  
+📂 **GitHub:** [GitHub](https://github.com/Milad-Safi/leafs-edge)
+
 
 ---
 
@@ -67,6 +70,7 @@ Leafs Edge is a full-stack NHL analytics platform built to make team matchups ea
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-DueSoon is a mobile application designed to help students track assignments, labs, and all tasks. The app uses a calendar-first interface with clear urgency indicators to surface upcoming tasks quickly, while also supporting list-based views for more detailed planning — all without requiring accounts or an internet connection.
+DueSoon is a mobile application designed to help students track assignments, labs, and tasks efficiently. The app uses a calendar-first interface with clear urgency indicators to surface upcoming work quickly, while also supporting list-based views for more detailed planning — all without requiring accounts or an internet connection.
 
-📂 **GitHub:** https://github.com/Milad-Safi/DueSoon
+📂 **GitHub:** [GitHub](https://github.com/Milad-Safi/DueSoon)
+
