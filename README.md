@@ -2,48 +2,6 @@
 
 ---
 
-## Featured Projects
-
-### Leafs Edge — NHL Analytics Platform
-
-Full-stack analytics platform for NHL matchup analysis and team performance using traditional stats, NHL EDGE tracking data, and machine learning.
-
-- Real-time matchup comparisons and opponent context  
-- Custom backend for ingestion, normalization, and analytics  
-- Machine learning model predicts short-term team momentum (UP / FLAT / DOWN)  
-
-**Tech**
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  🔗 https://leafs-edge.vercel.app/
-</p>
-
----
-
-### DueSoon — Deadline & Task Tracking App
-
-Offline-first mobile app for tracking academic deadlines with a calendar-first UI and clear urgency indicators.
-
-- Calendar-first UI with visual priority cues  
-- Monthly calendar + list views for tasks  
-- Local persistence with no accounts or internet dependency  
-
-**Tech**
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
 ## Tech Stack & Skills
 
 <h3 align="center">Languages</h3>
@@ -79,3 +37,46 @@ Offline-first mobile app for tracking academic deadlines with a calendar-first U
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
 </p>
+
+
+---
+
+## Featured Projects
+
+### Leafs Edge — NHL Analytics Platform
+
+Full-stack analytics platform for NHL matchup analysis and team performance using traditional stats, NHL EDGE tracking data, and machine learning.
+- Real-time matchup comparisons and opponent context  
+- Custom backend for ingestion, normalization, and analytics  
+- Machine learning model predicts short-term team momentum (UP / FLAT / DOWN)  
+
+<h3 align="center">Tech</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  🔗 https://leafs-edge.vercel.app/
+</p>
+
+---
+
+### DueSoon — Deadline & Task Tracking App
+
+Offline-first mobile app for tracking academic deadlines with a calendar-first UI and clear urgency indicators.
+- Calendar-first UI with visual priority cues  
+- Monthly calendar + list views for tasks  
+- Local persistence with no accounts or internet dependency
+
+
+<h3 align="center">Tech</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
