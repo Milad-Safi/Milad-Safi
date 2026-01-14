@@ -70,7 +70,7 @@ Leafs Edge is a full-stack NHL analytics platform built to make team matchups ea
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-DueSoon is a mobile application designed to help students track assignments, labs, and tasks efficiently. The app uses a calendar-first interface with clear urgency indicators to surface upcoming work quickly, while also supporting list-based views for more detailed planning — all without requiring accounts or an internet connection.
+DueSoon is a mobile application designed to help students track assignments, labs, and tasks efficiently. The app uses a calendar-first interface with clear urgency indicators to surface upcoming work quickly, while also supporting list-based views for more detailed planning
 
 📂 **[GitHub](https://github.com/Milad-Safi/DueSoon)**
 
