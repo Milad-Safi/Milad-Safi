@@ -1,4 +1,4 @@
-<h1 align="center">Milad Safi</h1>
+<h1 align="center">Milad Safi -- Computer Science Student @ TMU</h1>
 
 ---
 
