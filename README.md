@@ -56,7 +56,7 @@
 
 Leafs Edge is a full-stack NHL analytics platform built to make team matchups easy to understand at a glance. It combines traditional hockey statistics, NHL EDGE tracking data, and a custom machine learning model to provide real-time matchup context and short-term momentum predictions for upcoming games.
 
-🔗 **[Deployed-Site](https://leafs-edge.vercel.app/)**
+🔗 **[Deployed-Site](https://leafs-edge.vercel.app/)**       
 📂 **[GitHub](https://github.com/Milad-Safi/leafs-edge)**
 
 
