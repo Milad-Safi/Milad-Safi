@@ -1,3 +1,7 @@
+<h1 align="center">Milad Safi - Computer Science Student @ TMU</h1>
+
+---
+
 ## Tech Stack & Skills
 
 <h3 align="center">Languages</h3>
@@ -47,3 +51,51 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
 </p>
+
+---
+
+## Featured Projects
+
+### Leafs Edge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+Leafs Edge is a full-stack NHL analytics platform built to make team matchups easy to understand at a glance. It combines traditional hockey statistics, NHL EDGE tracking data, and a custom machine learning model to provide real-time matchup context and short-term momentum predictions for upcoming games.
+
+🔗 **[Deployed Site](https://leafs-edge.vercel.app/)**  
+📂 **[GitHub](https://github.com/Milad-Safi/leafs-edge)**
+
+---
+
+### DueSoon
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+DueSoon is a mobile application designed to help students track assignments, labs, and tasks efficiently. The app uses a calendar-first interface with clear urgency indicators to surface upcoming work quickly, while also supporting list-based views for more detailed planning.
+
+📂 **[GitHub](https://github.com/Milad-Safi/DueSoon)**
+
+---
+
+### Stranded
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-2E7D32?style=for-the-badge&logoColor=white" />
+</p>
+
+Stranded is a 2D side-scrolling game built in Python using Pygame, focused on real-time gameplay mechanics and structured game logic. The project implements a full game loop with player movement, enemy behavior, collision handling, projectiles, and state transitions such as loading and game-over screens. Game entities are organized into separate modules, allowing for clear separation of concerns and easier iteration on mechanics and assets.
+
+📂 **[GitHub](https://github.com/Milad-Safi/stranded)**
